@@ -1,1 +1,2 @@
+Testing for the diff command in GIT
 I am checking my own files
